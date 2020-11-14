@@ -1,0 +1,33 @@
+import speech_recognition as sr
+import os
+import sys
+import re
+import webbrowser
+import smtplib
+import requests
+import subprocess
+from pyowm import OWM
+import youtube_dl
+import vlc
+import urllib
+import urllib2s
+import json
+from bs4 import BeautifulSoup as soup
+from urllib2 import urlopen
+import wikipedia
+import random
+from time import strftime
+
+
+
+our first step is to create the method which will interpret user voice response.
+
+Next, create a method that will convert text to speech.
+
+
+level data to train the system - supervised 
+predictiion  
+NLP Data analytics- Bangla enlish 
+
+
+
